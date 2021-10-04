@@ -1,0 +1,31 @@
+{
+    "root": {
+        "supercarmodel": [
+            {
+                "name": "Lambo",
+                "year": "2011",
+                "price": "$120,000"
+            },
+            {
+                "name": "Benz",
+                "year": "2015",
+                "price": "$150,000"
+            },
+            {
+                "name": "Audi",
+                "year": "2017",
+                "price": "$190,000"
+            },
+            {
+                "name": "Ferrari",
+                "year": "2020",
+                "price": "$250,000"
+            },
+            {
+                "name": "Porche",
+                "year": "2021",
+                "price": "$300,000"
+            }
+        ]
+    }
+}
