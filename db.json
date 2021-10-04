@@ -25,6 +25,36 @@
                 "name": "Porche",
                 "year": "2021",
                 "price": "$300,000"
+            },
+            {
+                "name": "Audi",
+                "year": "2021",
+                "price": "$900,000"
+            },
+            {
+                "name": "AMG GTR",
+                "year": "2017",
+                "price": "$400,000"
+            },
+            {
+                "name": "Bugati",
+                "year": "2021",
+                "price": "$1,500,000"
+            },
+            {
+                "name": "McLarren",
+                "year": "2018",
+                "price": "$600,000"
+            },
+            {
+                "name": "Roll Royce",
+                "year": "2017",
+                "price": "$2,000,000"
+            },
+            {
+                "name": "BMW",
+                "year": "2009",
+                "price": "$90,000"
             }
         ]
     }
